@@ -4,3 +4,5 @@
 ##### This variable is a random number between 1/10. (You can change) 
 ##### The addition is validated by the user if correct. 
 ##### Or the user cannot be authenticated
+
+Example : [web-coder.xyz/verify/](http://localhost/botverify/)
