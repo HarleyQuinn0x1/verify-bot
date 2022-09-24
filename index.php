@@ -61,6 +61,7 @@ if (isset($_POST['verify'])) {
         <?php
         } ?>
 
+        <h1 class="lead display-2 text-center mb-5 mt-2">Simple Bot Verify System!</h1>
         <div class="card mt-3 bg-secondary">
             <div class="card-body p-3 justify-content-center">
                 
