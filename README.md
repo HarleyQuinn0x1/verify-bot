@@ -1,6 +1,6 @@
 # PHP Bot Verify System Like A Recaptcha
 
-system, takes a input from user. this input is addition of x and y variable.
-this variable is random number between 1 of 10. (You can change)
-if addition is true, user verified.
-Or user can't verified
+#####The system receives an input from the user. this input is the addition of the x and y variable. 
+#####This variable is a random number between 1/10. (You can change) 
+#####The addition is validated by the user if correct. 
+#####Or the user cannot be authenticated
